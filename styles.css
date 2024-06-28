@@ -335,7 +335,7 @@ footer p {
    .contact{
       display: flex;
       align-items: center;
-      grid-row: 2/2;
+      
     }
     
     .contact form{
@@ -344,7 +344,7 @@ footer p {
     }
     .contact img{
       display: block;
-      grid-area: b;
+    
     }
   
     footer{
